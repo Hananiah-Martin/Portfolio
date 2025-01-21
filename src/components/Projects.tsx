@@ -17,8 +17,8 @@ const projects = [
     description: 'A MERN stack project replicating GitHub features like repository management,file management,user authentication, and a responsive UI for seamless collaboration.',
     image: githubimg,
     tags: ['React', 'Express.js', 'Node.js', 'MongoDb','AWS'],
-    demoUrl: 'https://example.com',
-    githubUrl: 'https://github.com',
+    demoUrl: 'https://main.d2m7e3ji6k6fn4.amplifyapp.com/signup/',
+    githubUrl: 'https://github.com/Hananiah-Martin/Github_Clone',
   },
   {
     title: 'Resorts App',
@@ -29,12 +29,12 @@ const projects = [
     githubUrl: 'https://github.com/Hananiah-Martin/RESORT-APP',
   },
   {
-    title: 'Weather Station',
-    description: 'DIY weather station with web interface for real-time monitoring and data analysis.',
+    title: 'Real Estate App',
+    description: 'React based frontend responsive application which reflects skills in my frontend frameworks.',
     image: 'https://images.unsplash.com/photo-1526478806334-5fd488fcaabc?auto=format&fit=crop&q=80&w=1000',
-    tags: ['Arduino', 'React', 'Node.js', 'MongoDB'],
-    demoUrl: 'https://example.com',
-    githubUrl: 'https://github.com',
+    tags: ['React', 'Tailwind CSS'],
+    demoUrl: 'https://real-estate-7wt.pages.dev/',
+    githubUrl: 'https://github.com/Hananiah-Martin/REAL_ESTATE',
   },
 ];
 

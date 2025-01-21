@@ -1,7 +1,7 @@
 // import React from 'react';
 import {Github,Linkedin, Mail, ChevronDown } from 'lucide-react';
 import { LeetCodeIcon } from './icons/LeetCodeIcon';
-import myimg from "../assets/myimg.jpeg"
+import myimg from "../assets/martinimg.jpeg"
 import { useTypewriter } from "../hooks/useTypeWriter"
 const Hero = () => {
   const typedText = useTypewriter({

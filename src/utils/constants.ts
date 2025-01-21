@@ -1,5 +1,5 @@
 // File paths
-export const RESUME_PATH = '/src/assets/updated_resume_2.pdf';
+export const RESUME_PATH = "/src/assets/Martin_Resume.pdf";
 
 // Social links
 export const SOCIAL_LINKS = {
