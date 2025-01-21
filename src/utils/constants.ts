@@ -1,5 +1,5 @@
 // File paths
-export const RESUME_PATH = "/src/assets/Martin_Resume.pdf";
+export const RESUME_PATH = "https://drive.google.com/file/d/1Ge-7wG-pmjOpoQsjDpfF8CgTMRKrWaP-/view?usp=drivesdk";
 
 // Social links
 export const SOCIAL_LINKS = {
