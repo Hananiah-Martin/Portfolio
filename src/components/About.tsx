@@ -1,5 +1,4 @@
-import React from "react";
-import { Download } from "lucide-react";
+import { ExternalLink } from "lucide-react";
 import { RESUME_PATH } from '../utils/constants';
 const About = () => {
   return (
@@ -29,13 +28,13 @@ const About = () => {
             </p>
 
             <div className="pt-6">
-              <a
+            <a
                 href={RESUME_PATH}
-                download="Athota Hananiah Martin.pdf"
+                rel="noopener noreferrer"
                 className="inline-flex items-center px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors"
               >
-                <Download className="w-5 h-5 mr-2" />
-                Download CV
+                <ExternalLink className="w-5 h-5 mr-2" />
+                View Resume
               </a>
             </div>
           </div>
